@@ -1,3 +1,4 @@
+import os
 from grupo4polimosfismo import *
 
 #librerías necesarias limpiar la pantalla
