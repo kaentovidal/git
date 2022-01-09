@@ -1,3 +1,4 @@
+import os
 class cliente():
 
     def __init__(self,nombre, idt, celular):
