@@ -1,5 +1,5 @@
 import os
-from grupo4polimosfismo import *
+from grupo4polimorfismo import *
 
 #librerías necesarias limpiar la pantalla
 import os
